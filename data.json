@@ -1,0 +1,1423 @@
+{
+    "HOTELS": [
+        {
+            "name": "Hotel Bb Properties",
+            "hotelCode": "OIMADDST",
+            "distributor": "1A",
+            "propertyCode": "OIMADDST",
+            "company": "Amadeus Linkhotel",
+            "companyCode": "OI",
+            "isOnRequest": false,
+            "isHARP": false,
+            "companyAccessLevel": "!",
+            "availabilityStatus": "A",
+            "priceProvider": {
+                "amount": "20.00",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "20.00",
+                "text": "20.00 EUR"
+            },
+            "priceUser": {
+                "amount": "20.00",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "20.00",
+                "text": "20.00 EUR"
+            },
+            "pricingBlocksInventory": false,
+            "guarantee": {
+                "none": {
+                    "priceProvider": {
+                        "amount": "20.00",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    },
+                    "priceUser": {
+                        "amount": "20.00",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    }
+                }
+            },
+            "listDisplayedRate": [
+                {
+                    "description": "Vesta Hygea",
+                    "code": "VHY",
+                    "dupePropCode": "OIMADDST"
+                }
+            ],
+            "isBreakfastIncluded": true,
+            "category": "First class",
+            "categoryCode": "F",
+            "city": "Madrid",
+            "countryName": "Spain",
+            "countryCode": "ES",
+            "bestRate": false,
+            "negotiatedRate": false,
+            "shortText": "",
+            "longText": "",
+            "isRatesVisible": false,
+            "ratesStatus": "notChecked",
+            "latitude": 4042045,
+            "longitude": -370546,
+            "distanceKMS": 0,
+            "distanceMLS": 0,
+            "direction": "East",
+            "directionCode": "E",
+            "areaName": "East",
+            "areaCode": "E",
+            "duplicates": {
+                "OIMADDST": {
+                    "name": "Hotel Bb Properties",
+                    "hotelCode": "OIMADDST",
+                    "distributor": "1A",
+                    "propertyCode": "OIMADDST",
+                    "company": "Amadeus Linkhotel",
+                    "companyCode": "OI",
+                    "isOnRequest": false,
+                    "isHARP": false,
+                    "companyAccessLevel": "!",
+                    "availabilityStatus": "A",
+                    "priceProvider": {
+                        "amount": "20.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "20.00",
+                        "text": "20.00 EUR"
+                    },
+                    "priceUser": {
+                        "amount": "20.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "20.00",
+                        "text": "20.00 EUR"
+                    },
+                    "pricingBlocksInventory": false,
+                    "listDisplayedRate": [
+                        {
+                            "description": "Vesta Hygea",
+                            "code": "VHY",
+                            "dupePropCode": "OIMADDST"
+                        }
+                    ],
+                    "isBreakfastIncluded": true
+                }
+            },
+            "poolId": "701010286.OI.OIMADDST",
+            "contentSource": "OIMADDST"
+        },
+        {
+            "name": "Don Pio",
+            "hotelCode": "ADMAD0BZ",
+            "distributor": "AD",
+            "propertyCode": "ADMAD0BZ",
+            "isLeisure": true,
+            "company": "Amadeus Value Hotels",
+            "companyCode": "AD",
+            "isOnRequest": false,
+            "isHARP": false,
+            "companyAccessLevel": "!",
+            "availabilityStatus": "A",
+            "priceProvider": {
+                "amount": "184.00",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "184.00",
+                "text": "184.00 EUR"
+            },
+            "priceUser": {
+                "amount": "184.00",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "184.00",
+                "text": "184.00 EUR"
+            },
+            "pricingBlocksInventory": false,
+            "guarantee": {
+                "prepaid": {
+                    "priceProvider": {
+                        "amount": "184.00",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    },
+                    "priceUser": {
+                        "amount": "184.00",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    }
+                }
+            },
+            "listDisplayedRate": [
+                {
+                    "description": "Leisure Rate",
+                    "code": "LEI",
+                    "dupePropCode": "ADMAD0BZ"
+                }
+            ],
+            "isBreakfastIncluded": false,
+            "boardBases": [
+                "ROOM_ONLY"
+            ],
+            "category": "First class",
+            "categoryCode": "F",
+            "city": "MADRID",
+            "countryName": "Spain",
+            "countryCode": "ES",
+            "thumbnailUrl": "//d1moe8jtgovopm.cloudfront.net/FB7C0D15C4994673A7561166B7BFCB8A/B.JPEG",
+            "bestRate": false,
+            "negotiatedRate": false,
+            "shortText": "",
+            "longText": "",
+            "isRatesVisible": false,
+            "ratesStatus": "notChecked",
+            "latitude": 4042045,
+            "longitude": -370458,
+            "distanceKMS": 0.1,
+            "distanceMLS": 0.0625,
+            "direction": "East",
+            "directionCode": "E",
+            "areaName": "Downtown",
+            "areaCode": "D",
+            "duplicates": {
+                "ADMAD0BZ": {
+                    "name": "Don Pio",
+                    "hotelCode": "ADMAD0BZ",
+                    "distributor": "AD",
+                    "propertyCode": "ADMAD0BZ",
+                    "isLeisure": true,
+                    "company": "Amadeus Value Hotels",
+                    "companyCode": "AD",
+                    "isOnRequest": false,
+                    "isHARP": false,
+                    "companyAccessLevel": "!",
+                    "availabilityStatus": "A",
+                    "priceProvider": {
+                        "amount": "184.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "184.00",
+                        "text": "184.00 EUR"
+                    },
+                    "priceUser": {
+                        "amount": "184.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "184.00",
+                        "text": "184.00 EUR"
+                    },
+                    "pricingBlocksInventory": false,
+                    "listDisplayedRate": [
+                        {
+                            "description": "Leisure Rate",
+                            "code": "LEI",
+                            "dupePropCode": "ADMAD0BZ"
+                        }
+                    ],
+                    "isBreakfastIncluded": false,
+                    "boardBases": [
+                        "ROOM_ONLY"
+                    ]
+                }
+            },
+            "poolId": "505085472",
+            "contentSource": "ADMAD0BZ"
+        },
+        {
+            "name": "Hotel Regente",
+            "hotelCode": "GCMAD082",
+            "distributor": "GC",
+            "propertyCode": "GCMAD082",
+            "isLeisure": true,
+            "company": "GRNconnect.com",
+            "companyCode": "GC",
+            "isOnRequest": false,
+            "isHARP": false,
+            "companyAccessLevel": "!",
+            "availabilityStatus": "A",
+            "priceProvider": {
+                "amount": "118.00",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "118.00",
+                "text": "118.00 EUR"
+            },
+            "priceUser": {
+                "amount": "118.00",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "118.00",
+                "text": "118.00 EUR"
+            },
+            "pricingBlocksInventory": false,
+            "guarantee": {
+                "prepaid": {
+                    "priceProvider": {
+                        "amount": "118.00",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    },
+                    "priceUser": {
+                        "amount": "118.00",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    }
+                }
+            },
+            "listDisplayedRate": [
+                {
+                    "description": "Leisure Rate",
+                    "code": "LEI",
+                    "dupePropCode": "GCMAD082"
+                }
+            ],
+            "isBreakfastIncluded": false,
+            "boardBases": [
+                "ROOM_ONLY"
+            ],
+            "category": "Standard",
+            "categoryCode": "S",
+            "city": "Madrid",
+            "countryName": "Spain",
+            "countryCode": "ES",
+            "bestRate": false,
+            "negotiatedRate": false,
+            "shortText": "",
+            "longText": "",
+            "isRatesVisible": false,
+            "ratesStatus": "notChecked",
+            "latitude": 4041973,
+            "longitude": -370430,
+            "distanceKMS": 0.1,
+            "distanceMLS": 0.0625,
+            "direction": "East",
+            "directionCode": "E",
+            "areaName": "Downtown",
+            "areaCode": "D",
+            "duplicates": {
+                "GCMAD082": {
+                    "name": "Hotel Regente",
+                    "hotelCode": "GCMAD082",
+                    "distributor": "GC",
+                    "propertyCode": "GCMAD082",
+                    "isLeisure": true,
+                    "company": "GRNconnect.com",
+                    "companyCode": "GC",
+                    "isOnRequest": false,
+                    "isHARP": false,
+                    "companyAccessLevel": "!",
+                    "availabilityStatus": "A",
+                    "priceProvider": {
+                        "amount": "118.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "118.00",
+                        "text": "118.00 EUR"
+                    },
+                    "priceUser": {
+                        "amount": "118.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "118.00",
+                        "text": "118.00 EUR"
+                    },
+                    "pricingBlocksInventory": false,
+                    "listDisplayedRate": [
+                        {
+                            "description": "Leisure Rate",
+                            "code": "LEI",
+                            "dupePropCode": "GCMAD082"
+                        }
+                    ],
+                    "isBreakfastIncluded": false,
+                    "boardBases": [
+                        "ROOM_ONLY"
+                    ]
+                }
+            },
+            "poolId": "505008266",
+            "contentSource": "GCMAD082"
+        },
+        {
+            "name": "LEONARDO HOTEL MADRID CITY CENTER",
+            "hotelCode": "ADMAD096",
+            "distributor": "AD",
+            "propertyCode": "ADMAD096",
+            "isLeisure": true,
+            "company": "Amadeus Value Hotels",
+            "companyCode": "AD",
+            "isOnRequest": false,
+            "isHARP": false,
+            "companyAccessLevel": "!",
+            "availabilityStatus": "A",
+            "priceProvider": {
+                "amount": "118.00",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "118.00",
+                "text": "118.00 EUR"
+            },
+            "priceUser": {
+                "amount": "118.00",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "118.00",
+                "text": "118.00 EUR"
+            },
+            "pricingBlocksInventory": false,
+            "guarantee": {
+                "prepaid": {
+                    "priceProvider": {
+                        "amount": "118.00",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    },
+                    "priceUser": {
+                        "amount": "118.00",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    }
+                }
+            },
+            "listDisplayedRate": [
+                {
+                    "description": "Leisure Rate",
+                    "code": "LEI",
+                    "dupePropCode": "ADMAD096"
+                }
+            ],
+            "isBreakfastIncluded": false,
+            "boardBases": [
+                "ROOM_ONLY"
+            ],
+            "category": "Standard",
+            "categoryCode": "S",
+            "city": "MADRID",
+            "countryName": "Spain",
+            "countryCode": "ES",
+            "bestRate": false,
+            "negotiatedRate": false,
+            "shortText": "",
+            "longText": "",
+            "isRatesVisible": false,
+            "ratesStatus": "notChecked",
+            "latitude": 4041973,
+            "longitude": -370430,
+            "distanceKMS": 0.1,
+            "distanceMLS": 0.0625,
+            "direction": "East",
+            "directionCode": "E",
+            "areaName": "Downtown",
+            "areaCode": "D",
+            "duplicates": {
+                "ADMAD096": {
+                    "name": "LEONARDO HOTEL MADRID CITY CENTER",
+                    "hotelCode": "ADMAD096",
+                    "distributor": "AD",
+                    "propertyCode": "ADMAD096",
+                    "isLeisure": true,
+                    "company": "Amadeus Value Hotels",
+                    "companyCode": "AD",
+                    "isOnRequest": false,
+                    "isHARP": false,
+                    "companyAccessLevel": "!",
+                    "availabilityStatus": "A",
+                    "priceProvider": {
+                        "amount": "118.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "118.00",
+                        "text": "118.00 EUR"
+                    },
+                    "priceUser": {
+                        "amount": "118.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "118.00",
+                        "text": "118.00 EUR"
+                    },
+                    "pricingBlocksInventory": false,
+                    "listDisplayedRate": [
+                        {
+                            "description": "Leisure Rate",
+                            "code": "LEI",
+                            "dupePropCode": "ADMAD096"
+                        }
+                    ],
+                    "isBreakfastIncluded": false,
+                    "boardBases": [
+                        "ROOM_ONLY"
+                    ]
+                }
+            },
+            "poolId": "700930428",
+            "contentSource": "ADMAD096"
+        },
+        {
+            "name": "Hostal Murcia",
+            "hotelCode": "ADMAD09B",
+            "distributor": "AD",
+            "propertyCode": "ADMAD09B",
+            "isLeisure": true,
+            "company": "Amadeus Value Hotels",
+            "companyCode": "AD",
+            "isOnRequest": false,
+            "isHARP": false,
+            "companyAccessLevel": "!",
+            "availabilityStatus": "A",
+            "priceProvider": {
+                "amount": "147.00",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "147.00",
+                "text": "147.00 EUR"
+            },
+            "priceUser": {
+                "amount": "147.00",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "147.00",
+                "text": "147.00 EUR"
+            },
+            "pricingBlocksInventory": false,
+            "guarantee": {
+                "prepaid": {
+                    "priceProvider": {
+                        "amount": "147.00",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    },
+                    "priceUser": {
+                        "amount": "147.00",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    }
+                }
+            },
+            "listDisplayedRate": [
+                {
+                    "description": "Leisure Rate",
+                    "code": "LEI",
+                    "dupePropCode": "ADMAD09B"
+                }
+            ],
+            "isBreakfastIncluded": false,
+            "boardBases": [
+                "ROOM_ONLY"
+            ],
+            "category": "Standard",
+            "categoryCode": "S",
+            "city": "MADRID",
+            "countryName": "Spain",
+            "countryCode": "ES",
+            "thumbnailUrl": "//d1moe8jtgovopm.cloudfront.net/F6482C42162E483CA9723B8D120A0279/B.JPEG",
+            "bestRate": false,
+            "negotiatedRate": false,
+            "shortText": "",
+            "longText": "",
+            "isRatesVisible": false,
+            "ratesStatus": "notChecked",
+            "latitude": 4041973,
+            "longitude": -370411,
+            "distanceKMS": 0.1,
+            "distanceMLS": 0.0625,
+            "direction": "East",
+            "directionCode": "E",
+            "areaName": "Downtown",
+            "areaCode": "D",
+            "duplicates": {
+                "ADMAD09B": {
+                    "name": "Hostal Murcia",
+                    "hotelCode": "ADMAD09B",
+                    "distributor": "AD",
+                    "propertyCode": "ADMAD09B",
+                    "isLeisure": true,
+                    "company": "Amadeus Value Hotels",
+                    "companyCode": "AD",
+                    "isOnRequest": false,
+                    "isHARP": false,
+                    "companyAccessLevel": "!",
+                    "availabilityStatus": "A",
+                    "priceProvider": {
+                        "amount": "147.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "147.00",
+                        "text": "147.00 EUR"
+                    },
+                    "priceUser": {
+                        "amount": "147.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "147.00",
+                        "text": "147.00 EUR"
+                    },
+                    "pricingBlocksInventory": false,
+                    "listDisplayedRate": [
+                        {
+                            "description": "Leisure Rate",
+                            "code": "LEI",
+                            "dupePropCode": "ADMAD09B"
+                        }
+                    ],
+                    "isBreakfastIncluded": false,
+                    "boardBases": [
+                        "ROOM_ONLY"
+                    ]
+                }
+            },
+            "poolId": "701004165",
+            "contentSource": "ADMAD09B"
+        },
+        {
+            "name": "Hotel Porcel Ganivet",
+            "hotelCode": "ADMAD02T",
+            "distributor": "AD",
+            "propertyCode": "ADMAD02T",
+            "isLeisure": true,
+            "company": "Amadeus Value Hotels",
+            "companyCode": "AD",
+            "isOnRequest": false,
+            "isHARP": false,
+            "companyAccessLevel": "!",
+            "availabilityStatus": "A",
+            "priceProvider": {
+                "amount": "120.00",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "120.00",
+                "text": "120.00 EUR"
+            },
+            "priceUser": {
+                "amount": "120.00",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "120.00",
+                "text": "120.00 EUR"
+            },
+            "pricingBlocksInventory": false,
+            "guarantee": {
+                "prepaid": {
+                    "priceProvider": {
+                        "amount": "120.00",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    },
+                    "priceUser": {
+                        "amount": "120.00",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    }
+                }
+            },
+            "listDisplayedRate": [
+                {
+                    "description": "Leisure Rate",
+                    "code": "LEI",
+                    "dupePropCode": "ADMAD02T"
+                },
+                {
+                    "description": "Leisure Rate",
+                    "code": "LEI",
+                    "dupePropCode": "ADMAD02G"
+                }
+            ],
+            "isBreakfastIncluded": false,
+            "boardBases": [
+                "ROOM_ONLY"
+            ],
+            "category": "Standard",
+            "categoryCode": "S",
+            "city": "MADRID",
+            "countryName": "Spain",
+            "countryCode": "ES",
+            "thumbnailUrl": "//d1moe8jtgovopm.cloudfront.net/E719EE6F794A4BE4848ACC949785297D/B.JPEG",
+            "bestRate": false,
+            "negotiatedRate": false,
+            "shortText": "",
+            "longText": "",
+            "isRatesVisible": false,
+            "ratesStatus": "notChecked",
+            "latitude": 4040833,
+            "longitude": -371068,
+            "distanceKMS": 1.4,
+            "distanceMLS": 0.875,
+            "direction": "South",
+            "directionCode": "S",
+            "areaName": "Downtown",
+            "areaCode": "D",
+            "duplicates": {
+                "ADMAD02G": {
+                    "name": "Exe Suites 33 Hotel",
+                    "hotelCode": "ADMAD02G",
+                    "distributor": "AD",
+                    "propertyCode": "ADMAD02G",
+                    "isLeisure": true,
+                    "company": "Amadeus Value Hotels",
+                    "companyCode": "AD",
+                    "isOnRequest": false,
+                    "isHARP": false,
+                    "companyAccessLevel": "!",
+                    "availabilityStatus": "A",
+                    "priceProvider": {
+                        "amount": "128.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "128.00",
+                        "text": "128.00 EUR"
+                    },
+                    "priceUser": {
+                        "amount": "128.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "128.00",
+                        "text": "128.00 EUR"
+                    },
+                    "pricingBlocksInventory": false,
+                    "listDisplayedRate": [
+                        {
+                            "description": "Leisure Rate",
+                            "code": "LEI",
+                            "dupePropCode": "ADMAD02G"
+                        }
+                    ],
+                    "isBreakfastIncluded": false,
+                    "boardBases": [
+                        "ROOM_ONLY"
+                    ]
+                },
+                "ADMAD02T": {
+                    "name": "Hotel Porcel Ganivet",
+                    "hotelCode": "ADMAD02T",
+                    "distributor": "AD",
+                    "propertyCode": "ADMAD02T",
+                    "isLeisure": true,
+                    "company": "Amadeus Value Hotels",
+                    "companyCode": "AD",
+                    "isOnRequest": false,
+                    "isHARP": false,
+                    "companyAccessLevel": "!",
+                    "availabilityStatus": "A",
+                    "priceProvider": {
+                        "amount": "120.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "120.00",
+                        "text": "120.00 EUR"
+                    },
+                    "priceUser": {
+                        "amount": "120.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "120.00",
+                        "text": "120.00 EUR"
+                    },
+                    "pricingBlocksInventory": false,
+                    "listDisplayedRate": [
+                        {
+                            "description": "Leisure Rate",
+                            "code": "LEI",
+                            "dupePropCode": "ADMAD02T"
+                        }
+                    ],
+                    "isBreakfastIncluded": false,
+                    "boardBases": [
+                        "ROOM_ONLY"
+                    ]
+                }
+            },
+            "poolId": "700954005",
+            "contentSource": "ADMAD02T"
+        },
+        {
+            "name": "Room Mate Mario",
+            "hotelCode": "BKMADADC",
+            "distributor": "BK",
+            "propertyCode": "BKMADADC",
+            "isLeisure": true,
+            "company": "Booking.com",
+            "companyCode": "BK",
+            "isOnRequest": false,
+            "isHARP": false,
+            "companyAccessLevel": "!",
+            "availabilityStatus": "A",
+            "priceProvider": {
+                "amount": "315.00",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "315.00",
+                "text": "315.00 EUR"
+            },
+            "priceUser": {
+                "amount": "315.00",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "315.00",
+                "text": "315.00 EUR"
+            },
+            "pricingBlocksInventory": false,
+            "guarantee": {
+                "guarantee": {
+                    "priceProvider": {
+                        "amount": "315.00",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    },
+                    "priceUser": {
+                        "amount": "315.00",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    }
+                }
+            },
+            "listDisplayedRate": [
+                {
+                    "description": "Promotional Rate",
+                    "code": "PRO",
+                    "dupePropCode": "BKMADADC"
+                }
+            ],
+            "isBreakfastIncluded": false,
+            "boardBases": [
+                "ROOM_ONLY"
+            ],
+            "category": "First class",
+            "categoryCode": "F",
+            "city": "THE HAGUE",
+            "countryName": "Australia",
+            "countryCode": "AU",
+            "thumbnailUrl": "//d1moe8jtgovopm.cloudfront.net/18F86FDF6FB54F059BBC3DB2B74C0006/B.JPEG",
+            "bestRate": false,
+            "negotiatedRate": false,
+            "shortText": "",
+            "longText": "",
+            "isRatesVisible": false,
+            "ratesStatus": "notChecked",
+            "latitude": 4042054,
+            "longitude": -370387,
+            "distanceKMS": 0.1,
+            "distanceMLS": 0.0625,
+            "direction": "East",
+            "directionCode": "E",
+            "areaName": "Downtown",
+            "areaCode": "D",
+            "duplicates": {
+                "BKMADADC": {
+                    "name": "Room Mate Mario",
+                    "hotelCode": "BKMADADC",
+                    "distributor": "BK",
+                    "propertyCode": "BKMADADC",
+                    "isLeisure": true,
+                    "company": "Booking.com",
+                    "companyCode": "BK",
+                    "isOnRequest": false,
+                    "isHARP": false,
+                    "companyAccessLevel": "!",
+                    "availabilityStatus": "A",
+                    "priceProvider": {
+                        "amount": "315.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "315.00",
+                        "text": "315.00 EUR"
+                    },
+                    "priceUser": {
+                        "amount": "315.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "315.00",
+                        "text": "315.00 EUR"
+                    },
+                    "pricingBlocksInventory": false,
+                    "listDisplayedRate": [
+                        {
+                            "description": "Promotional Rate",
+                            "code": "PRO",
+                            "dupePropCode": "BKMADADC"
+                        }
+                    ],
+                    "isBreakfastIncluded": false,
+                    "boardBases": [
+                        "ROOM_ONLY"
+                    ]
+                }
+            },
+            "poolId": "700894396",
+            "contentSource": "BKMADADC"
+        },
+        {
+            "name": "7 Islas Hotel",
+            "hotelCode": "BKMADADH",
+            "distributor": "BK",
+            "propertyCode": "BKMADADH",
+            "isLeisure": true,
+            "company": "Booking.com",
+            "companyCode": "BK",
+            "isOnRequest": false,
+            "isHARP": false,
+            "companyAccessLevel": "!",
+            "availabilityStatus": "A",
+            "priceProvider": {
+                "amount": "105.84",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "105.84",
+                "text": "105.84 EUR"
+            },
+            "priceUser": {
+                "amount": "105.84",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "105.84",
+                "text": "105.84 EUR"
+            },
+            "pricingBlocksInventory": false,
+            "guarantee": {
+                "guarantee": {
+                    "priceProvider": {
+                        "amount": "105.84",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    },
+                    "priceUser": {
+                        "amount": "105.84",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    }
+                }
+            },
+            "listDisplayedRate": [
+                {
+                    "description": "Promotional Rate",
+                    "code": "PRO",
+                    "dupePropCode": "BKMADADH"
+                }
+            ],
+            "isBreakfastIncluded": false,
+            "boardBases": [
+                "ROOM_ONLY"
+            ],
+            "category": "First class",
+            "categoryCode": "F",
+            "city": "THE HAGUE",
+            "countryName": "Australia",
+            "countryCode": "AU",
+            "thumbnailUrl": "//d1moe8jtgovopm.cloudfront.net/046A995868DD47E39655531173600582/B.JPEG",
+            "bestRate": false,
+            "negotiatedRate": false,
+            "shortText": "",
+            "longText": "",
+            "isRatesVisible": false,
+            "ratesStatus": "notChecked",
+            "latitude": 4046888,
+            "longitude": -367361,
+            "distanceKMS": 6,
+            "distanceMLS": 3.75,
+            "direction": "North",
+            "directionCode": "N",
+            "areaName": "Downtown",
+            "areaCode": "D",
+            "duplicates": {
+                "BKMADADH": {
+                    "name": "7 Islas Hotel",
+                    "hotelCode": "BKMADADH",
+                    "distributor": "BK",
+                    "propertyCode": "BKMADADH",
+                    "isLeisure": true,
+                    "company": "Booking.com",
+                    "companyCode": "BK",
+                    "isOnRequest": false,
+                    "isHARP": false,
+                    "companyAccessLevel": "!",
+                    "availabilityStatus": "A",
+                    "priceProvider": {
+                        "amount": "105.84",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "105.84",
+                        "text": "105.84 EUR"
+                    },
+                    "priceUser": {
+                        "amount": "105.84",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "105.84",
+                        "text": "105.84 EUR"
+                    },
+                    "pricingBlocksInventory": false,
+                    "listDisplayedRate": [
+                        {
+                            "description": "Promotional Rate",
+                            "code": "PRO",
+                            "dupePropCode": "BKMADADH"
+                        }
+                    ],
+                    "isBreakfastIncluded": false,
+                    "boardBases": [
+                        "ROOM_ONLY"
+                    ]
+                }
+            },
+            "poolId": "700179964",
+            "contentSource": "BKMADADH"
+        },
+        {
+            "name": "Caballero Errante",
+            "hotelCode": "ADMAD0B3",
+            "distributor": "AD",
+            "propertyCode": "ADMAD0B3",
+            "isLeisure": true,
+            "company": "Amadeus Value Hotels",
+            "companyCode": "AD",
+            "isOnRequest": false,
+            "isHARP": false,
+            "companyAccessLevel": "!",
+            "availabilityStatus": "A",
+            "priceProvider": {
+                "amount": "132.00",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "132.00",
+                "text": "132.00 EUR"
+            },
+            "priceUser": {
+                "amount": "132.00",
+                "priceType": "I",
+                "unit": "EUR",
+                "value": "132.00",
+                "text": "132.00 EUR"
+            },
+            "pricingBlocksInventory": false,
+            "guarantee": {
+                "prepaid": {
+                    "priceProvider": {
+                        "amount": "132.00",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    },
+                    "priceUser": {
+                        "amount": "132.00",
+                        "priceType": "I",
+                        "unit": "EUR"
+                    }
+                }
+            },
+            "listDisplayedRate": [
+                {
+                    "description": "Leisure Rate",
+                    "code": "LEI",
+                    "dupePropCode": "ADMAD0B3"
+                },
+                {
+                    "description": "Leisure Rate",
+                    "code": "LEI",
+                    "dupePropCode": "GCMAD00H"
+                }
+            ],
+            "isBreakfastIncluded": false,
+            "boardBases": [
+                "ROOM_ONLY"
+            ],
+            "category": "Standard",
+            "categoryCode": "S",
+            "city": "MADRID",
+            "countryName": "Spain",
+            "countryCode": "ES",
+            "thumbnailUrl": "//d1moe8jtgovopm.cloudfront.net/79850557F73B4ED28F1428DC6D2A7D7B/B.JPEG",
+            "bestRate": false,
+            "negotiatedRate": false,
+            "shortText": "",
+            "longText": "",
+            "isRatesVisible": false,
+            "ratesStatus": "notChecked",
+            "latitude": 4041922,
+            "longitude": -370424,
+            "distanceKMS": 0.2,
+            "distanceMLS": 0.125,
+            "direction": "East",
+            "directionCode": "E",
+            "areaName": "Downtown",
+            "areaCode": "D",
+            "duplicates": {
+                "ADMAD0B3": {
+                    "name": "Caballero Errante",
+                    "hotelCode": "ADMAD0B3",
+                    "distributor": "AD",
+                    "propertyCode": "ADMAD0B3",
+                    "isLeisure": true,
+                    "company": "Amadeus Value Hotels",
+                    "companyCode": "AD",
+                    "isOnRequest": false,
+                    "isHARP": false,
+                    "companyAccessLevel": "!",
+                    "availabilityStatus": "A",
+                    "priceProvider": {
+                        "amount": "132.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "132.00",
+                        "text": "132.00 EUR"
+                    },
+                    "priceUser": {
+                        "amount": "132.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "132.00",
+                        "text": "132.00 EUR"
+                    },
+                    "pricingBlocksInventory": false,
+                    "listDisplayedRate": [
+                        {
+                            "description": "Leisure Rate",
+                            "code": "LEI",
+                            "dupePropCode": "ADMAD0B3"
+                        }
+                    ],
+                    "isBreakfastIncluded": false,
+                    "boardBases": [
+                        "ROOM_ONLY"
+                    ]
+                },
+                "GCMAD00H": {
+                    "name": "Ii Castillas",
+                    "hotelCode": "GCMAD00H",
+                    "distributor": "GC",
+                    "propertyCode": "GCMAD00H",
+                    "isLeisure": true,
+                    "company": "GRNconnect.com",
+                    "companyCode": "GC",
+                    "isOnRequest": false,
+                    "isHARP": false,
+                    "companyAccessLevel": "!",
+                    "availabilityStatus": "A",
+                    "priceProvider": {
+                        "amount": "132.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "132.00",
+                        "text": "132.00 EUR"
+                    },
+                    "priceUser": {
+                        "amount": "132.00",
+                        "priceType": "I",
+                        "unit": "EUR",
+                        "value": "132.00",
+                        "text": "132.00 EUR"
+                    },
+                    "pricingBlocksInventory": false,
+                    "listDisplayedRate": [
+                        {
+                            "description": "Leisure Rate",
+                            "code": "LEI",
+                            "dupePropCode": "GCMAD00H"
+                        }
+                    ],
+                    "isBreakfastIncluded": false,
+                    "boardBases": [
+                        "ROOM_ONLY"
+                    ]
+                }
+            },
+            "poolId": "700134606",
+            "contentSource": "ADMAD0B3"
+        }
+    ],
+    "HOTEL_CONTENT": [
+        {
+            "descriptiveContent": {
+                "spokenLanguages": [],
+                "awards": [],
+                "lsrRating": 4,
+                "addressLines": [],
+                "contactsLines": [],
+                "facilities": {}
+            },
+            "propertyCode": "OIMADDST",
+            "partial": true
+        },
+        {
+            "descriptiveContent": {
+                "spokenLanguages": [],
+                "awards": [
+                    {
+                        "symbol": "STAR",
+                        "provider": "Local Star Rating",
+                        "rating": 4
+                    }
+                ],
+                "lsrRating": 4,
+                "addressLines": [
+                    "AVENIDA DE PIO XII 25, 28016 MADRID"
+                ],
+                "zipCode": "28016",
+                "contactsLines": [
+                    {
+                        "number": "+34913530780",
+                        "name": "Voice",
+                        "type": "VOICE"
+                    },
+                    {
+                        "number": "+34913530781",
+                        "name": "Fax",
+                        "type": "FAX"
+                    }
+                ],
+                "facilities": {},
+                "hotelTypeOTACode": "20"
+            },
+            "propertyCode": "ADMAD0BZ",
+            "partial": true
+        },
+        {
+            "descriptiveContent": {
+                "spokenLanguages": [],
+                "awards": [],
+                "lsrRating": -1,
+                "addressLines": [],
+                "contactsLines": [],
+                "facilities": {}
+            },
+            "propertyCode": "GCMAD082",
+            "partial": true
+        },
+        {
+            "descriptiveContent": {
+                "spokenLanguages": [],
+                "awards": [],
+                "lsrRating": 5,
+                "addressLines": [
+                    "ALBERTO AGUILERA 18, 28015 MADRID"
+                ],
+                "zipCode": "20815",
+                "contactsLines": [
+                    {
+                        "number": "34914460900",
+                        "name": "Voice",
+                        "type": "VOICE"
+                    },
+                    {
+                        "number": "34914460904",
+                        "name": "Fax",
+                        "type": "FAX"
+                    }
+                ],
+                "facilities": {}
+            },
+            "propertyCode": "ADMAD096",
+            "partial": true
+        },
+        {
+            "descriptiveContent": {
+                "spokenLanguages": [],
+                "awards": [
+                    {
+                        "symbol": "STAR",
+                        "provider": "Local Star Rating",
+                        "rating": 5
+                    }
+                ],
+                "lsrRating": 5,
+                "addressLines": [
+                    "MARQUES VIUDO DE PONTEJOS 3, 3O PISO, 28012 MADRID"
+                ],
+                "zipCode": "28012",
+                "contactsLines": [
+                    {
+                        "number": "+34915223683",
+                        "name": "Voice",
+                        "type": "VOICE"
+                    }
+                ],
+                "facilities": {
+                    "PCH": true
+                },
+                "hotelTypeOTACode": "19"
+            },
+            "propertyCode": "ADMAD09B",
+            "partial": true
+        },
+        {
+            "descriptiveContent": {
+                "totalNumberRooms": "29",
+                "spokenLanguages": [],
+                "awards": [
+                    {
+                        "symbol": "STAR",
+                        "provider": "Local Star Rating",
+                        "rating": 3
+                    }
+                ],
+                "lsrRating": 3,
+                "addressLines": [
+                    "C/TOLEDO, 111-113"
+                ],
+                "zipCode": "28005",
+                "contactsLines": [
+                    {
+                        "number": "0034 91 3653600",
+                        "name": "Voice",
+                        "type": "VOICE"
+                    },
+                    {
+                        "number": "0034 91 3640223",
+                        "name": "Fax",
+                        "type": "FAX"
+                    }
+                ],
+                "facilities": {
+                    "BAR": true,
+                    "PCH": true,
+                    "AIR": true
+                },
+                "hotelTypeOTACode": "20"
+            },
+            "propertyCode": "ADMAD02T",
+            "partial": true
+        },
+        {
+            "descriptiveContent": {
+                "totalNumberRooms": "48",
+                "spokenLanguages": [
+                    {
+                        "code": "ES",
+                        "name": "Spanish"
+                    },
+                    {
+                        "code": "GB",
+                        "name": "UK English"
+                    }
+                ],
+                "awards": [
+                    {
+                        "symbol": "STAR",
+                        "provider": "Local Star Rating",
+                        "rating": 2
+                    }
+                ],
+                "lsrRating": 2,
+                "addressLines": [
+                    "MOLENSTRAAT53"
+                ],
+                "zipCode": "2513 BJ",
+                "contactsLines": [
+                    {
+                        "number": "+34 915488548",
+                        "name": "Voice",
+                        "type": "VOICE"
+                    }
+                ],
+                "facilities": {
+                    "LAU": true,
+                    "ROO": true,
+                    "PCH": true,
+                    "AIR": true
+                },
+                "hotelTypeOTACode": "20"
+            },
+            "propertyCode": "BKMADADC",
+            "partial": true
+        },
+        {
+            "descriptiveContent": {
+                "totalNumberRooms": "16",
+                "spokenLanguages": [
+                    {
+                        "code": "ES",
+                        "name": "Spanish"
+                    },
+                    {
+                        "code": "GB",
+                        "name": "UK English"
+                    }
+                ],
+                "awards": [
+                    {
+                        "symbol": "STAR",
+                        "provider": "Local Star Rating",
+                        "rating": 4
+                    }
+                ],
+                "lsrRating": 4,
+                "addressLines": [
+                    "MOLENSTRAAT53"
+                ],
+                "zipCode": "2513 BJ",
+                "contactsLines": [
+                    {
+                        "number": "+34915234688",
+                        "name": "Voice",
+                        "type": "VOICE"
+                    },
+                    {
+                        "number": "+34 91 523 4688",
+                        "name": "Fax",
+                        "type": "FAX"
+                    }
+                ],
+                "facilities": {
+                    "RES": true,
+                    "LAU": true,
+                    "BAR": true,
+                    "ROO": true,
+                    "PCH": true,
+                    "AIR": true
+                },
+                "hotelTypeOTACode": "20"
+            },
+            "propertyCode": "BKMADADH",
+            "partial": true
+        },
+        {
+            "descriptiveContent": {
+                "spokenLanguages": [],
+                "awards": [
+                    {
+                        "symbol": "STAR",
+                        "provider": "Local Star Rating",
+                        "rating": 3
+                    }
+                ],
+                "lsrRating": 3,
+                "addressLines": [
+                    "CALLE DE PINOS ALTA 14, 28029 MADRID"
+                ],
+                "zipCode": "28029",
+                "contactsLines": [
+                    {
+                        "number": "+34911441330",
+                        "name": "Voice",
+                        "type": "VOICE"
+                    },
+                    {
+                        "number": "911441337",
+                        "name": "Fax",
+                        "type": "FAX"
+                    }
+                ],
+                "facilities": {
+                    "PCH": true
+                },
+                "hotelTypeOTACode": "20"
+            },
+            "propertyCode": "ADMAD0B3",
+            "partial": true
+        }
+    ],
+    "GENERAL": {
+        "pageTicket": "4",
+        "noMoreResults": false,
+        "noMoreRecoResults": true,
+        "totalHotelsInPacket": 9,
+        "totalHotelsInCandidateList": 1361,
+        "searchingCenterInfo": {
+            "latitude": "4042031",
+            "longitude": "-370562",
+            "cityName": "Madrid",
+            "type": "CITY",
+            "location": "Downtown"
+        },
+        "lastSearchBLocation": "MAD",
+        "lastSearchCountryCode": "ES"
+    },
+    "STATUS": "multiAvail"
+}
